@@ -1,6 +1,6 @@
 {
   "name": "tibia-regex",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Collection of Regex to match data of official tibia website",
   "homepage": "http://github.com/TibiaJS/regex",
   "author": {
