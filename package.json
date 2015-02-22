@@ -1,0 +1,37 @@
+{
+  "name": "tibia-regex",
+  "version": "0.0.0",
+  "description": "Collection of Regex to match data of official tibia website",
+  "homepage": "http://github.com/TibiaJS/regex",
+  "author": {
+    "name": "Gabriel Pedro",
+    "email": "gpedro831@gmail.com",
+    "url": "https://gpedro.net"
+  },
+  "repository": "TibiaJS/tibia-regex",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "tibia-regex",
+    "tibia",
+    "cipsoft",
+    "regex",
+    "otserv"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^1.0.0",
+    "time-grunt": "^1.0.0",
+    "grunt-mocha-cli": "^1.11.0",
+    "jshint-stylish": "^1.0.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
